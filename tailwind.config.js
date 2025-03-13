@@ -8,7 +8,8 @@ export default {
     extend: {
       colors: {
         "grey-bg": "#a0aec0",
-        "purple-acc": "#7951A8"
+        "purple-acc": "#7951A8",
+        "text-color": "#1a202c",
       }
     },
   },
